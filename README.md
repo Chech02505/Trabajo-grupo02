@@ -5,4 +5,4 @@
 
 ## Descripcion
 
-Este trabajo es una plataforma de seguimiento acadenico que permite a los etudiantes gestionar sus tareas.
+Este trabajo es una plataforma de seguimiento acadenico que permite a los etudiantes gestionar sus tareas
